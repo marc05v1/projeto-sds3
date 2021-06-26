@@ -4,7 +4,7 @@ function App() {
   return (
     <div >
 
-    <h1>Fala cambada!!  </h1>
+    <h1 className="text-primary">Fala cambada!!  </h1>
 
     </div>
   );
